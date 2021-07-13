@@ -1,0 +1,53 @@
+_repo: A-Most-Unholy-Trade-Being-Letters-on-the-Drama-by-Henry-James_65683
+_version: 0.0.1
+contributor:
+  engineer:
+    agent_name: Murray, Waldo
+    gutenberg_agent_id: '53458'
+    url: http://www.gutenberg.org/2009/agents/53458
+  illustrator:
+    agent_name: Sargent, John Singer
+    alias: Sargent, John S.
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '36606'
+    url: http://www.gutenberg.org/2009/agents/36606
+    wikipedia: https://en.wikipedia.org/wiki/John_Singer_Sargent
+  other_contributor:
+    agent_name: Heinemann, William
+    birthdate: 1863
+    deathdate: 1920
+    gutenberg_agent_id: '53450'
+    url: http://www.gutenberg.org/2009/agents/53450
+    wikipedia: https://en.wikipedia.org/wiki/William_Heinemann
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: https://en.wikipedia.org/wiki/Henry_James
+description: '"The four letters here printed for the first time are part of Henry
+  James''s informal correspondence with William Heinemann, the publisher ... They
+  concern themselves with James''s impressions of Ibsen''s ''Little Eyolf'' and contain
+  some general remarks on the drama"--Note.'
+gutenberg_issued: '2021-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65683'
+  lccn: '23012497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Ibsen, Henrik, 1828-1906. Lille Eyolf'
+- !lcsh 'Authors, American -- 19th century -- Correspondence'
+- !lcsh 'James, Henry, 1843-1916 -- Correspondence'
+- !lcc 'PT'
+- !lcsh 'Heinemann, William, 1863-1920 -- Correspondence'
+- GITenberg
+title: '"A Most Unholy Trade," Being Letters on the Drama by Henry James'
+url: http://www.gutenberg.org/ebooks/65683
