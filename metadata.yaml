@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '53450'
     url: http://www.gutenberg.org/2009/agents/53450
     wikipedia: https://en.wikipedia.org/wiki/William_Heinemann
+covers:
+- cover_type: archival
+  image_path: 65683-h/images/cover.jpg
 creator:
   author:
     agent_name: James, Henry
@@ -32,6 +35,8 @@ description: '"The four letters here printed for the first time are part of Henr
   James''s informal correspondence with William Heinemann, the publisher ... They
   concern themselves with James''s impressions of Ibsen''s ''Little Eyolf'' and contain
   some general remarks on the drama"--Note.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65683#A-Most-Unholy-Trade-Being-Letters-on-the-Drama-by-Henry-James
 gutenberg_issued: '2021-06-23'
 gutenberg_type: Text
 identifiers:
